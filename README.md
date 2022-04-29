@@ -9,5 +9,6 @@ To specifically run this script, you will need to download the following Landsat
 - LC81120372019216LGN00
 
 MONTREAL
+Download Montreal Borders here: https://donnees.montreal.ca/ville-de-montreal/limites-terrestres
 To specifically run this script, you will need to download the following Landsat8 scenes:
 - LC80150282021293LGN00
